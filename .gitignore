@@ -1,0 +1,20 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Arquivos de dados gerados pelo scraper
+*.csv
+*.json
+*.xlsx
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Configurações do VS Code
+.vscode/
